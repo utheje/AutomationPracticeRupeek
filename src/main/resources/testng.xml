@@ -7,10 +7,10 @@
 	</listeners>
 
 
-	<test name="IPhone Price Comaparator ">
+	<test name="Dresses Below $28 ">
 		<classes>
 			
-			<class name="com.uthej.testcases.Tripadvisor"></class>
+			<class name="com.uthej.testcases.AutomationPractice"></class>
 		</classes>
 	</test>
 </suite>
